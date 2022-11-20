@@ -7,8 +7,8 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const config = {
   title: '雙龍體育',
   tagline: '​雙龍職籃 ... 籃球，為一種由兩隊參與，在一個長方形籃球場進行的球類運動。每隊出場5名隊員，可將球向任何方向傳、投、拍、滾或運，目的是將籃球投入對方球籃得分，並阻止',
-  url: 'https://ssport.vercel.app/docs/intro',
-  baseUrl: 'https://ssport.vercel.app/docs/intro',
+  url: 'ssport.vercel.app/docs/intro',
+  baseUrl: 'ssport.vercel.app',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'https://uploads-ssl.webflow.com/634b88e48246d83808264be5/634b8a960007a1ac7d21f4e2_62f32325349867818a2a6fa2_62ccdcf75b92a3e26f4df0b7_%E6%9C%AA%E5%91%BD%E5%90%8D%E8%A8%AD%E8%A8%88%20(1).jpg',
