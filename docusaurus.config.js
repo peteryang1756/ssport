@@ -113,18 +113,7 @@ const config = {
       textColor: '#091E42',
       isCloseable: false,
     },
-            algolia: {
-      apiKey: "7640fd8ca3b8204bd58b654f71607ab5",
-      indexName: "docs",
-      appId: "8YELX4XDEG",
-      // Optional: see doc section bellow
-      contextualSearch: true,
-
-      // Optional: Algolia search parameters
-      searchParameters: {},
-
-      //... other Algolia params
-    },
+            
       footer: {
         style: 'light',
         logo: {
